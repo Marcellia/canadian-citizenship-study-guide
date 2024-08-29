@@ -428,3 +428,48 @@ The party that wins the most seats, wins. The leader of that party becomes the P
 The party that wins becomes a majority government if they have more than half the seats. If they don't, they become a minority government. They keep running until they lose the confidence of the majority of the MPs. If a majority of the MPs vote against a major government decision, the party in power is defeated and the PM asks the Governor General to call for an election.
 
 Elections happen every 4 years. Vote is secret.
+
+
+# List of Important People 
+
+| **Name**                         | **Role/Significance**                                                                                                           | **Year(s)**         |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| **Agnes Macphail**                | First woman elected to the House of Commons.                                                                                   | 1921                |
+| **Alexander Graham Bell**         | Inventor of the telephone.                                                                                                     | 1876                |
+| **Bishop Laval**                  | First Bishop of New France, played a key role in religious and social leadership.                                               | 1674                |
+| **Charles de Salaberry**          | French Canadian soldier, notable in defending Montreal during the War of 1812.                                                  | 1812                |
+| **Count Frontenac**               | Governor of New France, refused to surrender Quebec to the English.                                                            | 1672-1698           |
+| **Donovan Bailey**                | Olympic sprinter, first Canadian to legally break the 10-second barrier in the 100 meters.                                      | 1996                |
+| **Emily Carr**                    | Renowned Canadian painter, painted the landscapes of British Columbia.                                                         | 1920s-1940s         |
+| **Emily Stowe**                   | First female physician to practise in Canada, founded the Canadian Women's Suffrage Association.                                | 1867-1903           |
+| **Étienne-Paschal Taché**         | Father of Confederation, key in uniting provinces into the Dominion of Canada.                                                  | 1860s               |
+| **Frederick Banting & Charles Best** | Co-discovered insulin, leading to treatments for diabetes.                                                                   | 1921                |
+| **George-Étienne Cartier**        | Co-leader of the Confederation movement, one of the Fathers of Confederation.                                                   | 1860s               |
+| **Guy Carleton (Lord Dorchester)** | Defended Quebec from American invasion.                                                                                        | 1775                |
+| **Henry Hudson**                  | Discovered Hudson Bay, played a key role in founding settlements.                                                              | 1610                |
+| **Isaac Brock**                   | Canadian military leader, hero in the War of 1812.                                                                             | 1812                |
+| **Jacques Cartier**               | French explorer, first European to map Gulf and River of St. Lawrence.                                                         | 1535-1536           |
+| **James Wolfe**                   | British General, won the Battle of the Plains of Abraham against the French.                                                   | 1759                |
+| **Jean Talon**                    | Intendant of New France, governed the colony.                                                                                  | 1665-1682           |
+| **John A. Macdonald**             | First Prime Minister of Canada, one of the Fathers of Confederation.                                                           | 1867                |
+| **John Cabot**                    | Italian immigrant in England, first European to map East Coast of Canada.                                                      | 1497-1498           |
+| **John McCrae**                   | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                  | 1915                |
+| **John Simcoe**                   | Lieutenant-Governor of Upper Canada, abolished slavery in 1793.                                                                | 1793                |
+| **Laura Secord**                  | Canadian heroine of the War of 1812, warned British forces of an American attack.                                               | 1813                |
+| **Lord Durham**                   | Sent from Britain to recommend responsible government and unify Upper and Lower Canada.                                         | 1839                |
+| **Louis Riel**                    | Métis leader, led uprisings in Manitoba and Saskatchewan, considered the "father of Manitoba."                                  | 1870, 1885          |
+| **Marjorie Turner-Bailey**        | Olympian sprinter descended from Black Loyalists.                                                                              | 1980s               |
+| **Marquis de Montcalm**           | French Commander, defeated in the Battle of the Plains of Abraham.                                                             | 1759                |
+| **Mike Lazaridis & Jim Balsillie**| Founders of Research In Motion (RIM), creators of the Blackberry.                                                              | 1984                |
+| **Phil Edwards**                  | Olympian runner, physician, and Canadian Army captain, expert in tropical diseases.                                             | 1920s-1930s         |
+| **Reginald Fessenden**            | Inventor, made significant contributions to radio technology.                                                                  | 1900s               |
+| **Rick Hansen**                   | Wheelchair athlete, completed the "Man in Motion World Tour" to raise awareness for spinal cord injuries.                       | 1985-1987           |
+| **Robert Borden**                 | Prime Minister during World War I, known for introducing conscription.                                                         | 1911-1920           |
+| **Robert Ross**                   | British general, burned the White House during the War of 1812.                                                                | 1814                |
+| **Samuel de Champlain**           | French explorer, founded Quebec and established settlements in Acadia.                                                         | 1604, 1608          |
+| **Sir Arthur Currie**             | Canada's greatest soldier, led Canadian troops during World War I, especially at Vimy Ridge.                                    | 1917                |
+| **Sir Sandford Fleming**          | Engineer, introduced time zones worldwide, Canadian railway pioneer.                                                           | 1870s-1880s         |
+| **Terry Fox**                     | Ran the "Marathon of Hope" to raise money for cancer research, becoming a national hero.                                        | 1980                |
+| **Therese Casgrain**              | Quebec women's rights advocate, helped secure the right for women to vote in Quebec.                                            | 1940                |
+| **Wayne Gretzky**                 | Considered the greatest ice hockey player of all time, multiple Stanley Cup winner.                                             | 1980s-1990s         |
+| **William Lyon Mackenzie King**   | Longest-serving Canadian Prime Minister, led Canada through World War II.                                                      | 1921-1948           |
