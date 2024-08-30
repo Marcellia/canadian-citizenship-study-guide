@@ -428,3 +428,96 @@ The party that wins the most seats, wins. The leader of that party becomes the P
 The party that wins becomes a majority government if they have more than half the seats. If they don't, they become a minority government. They keep running until they lose the confidence of the majority of the MPs. If a majority of the MPs vote against a major government decision, the party in power is defeated and the PM asks the Governor General to call for an election.
 
 Elections happen every 4 years. Vote is secret.
+
+Skip to content
+Navigation Menu
+miparnisari
+/
+canadian-citizenship-study-guide
+
+Type / to search
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Security
+Insights
+Update extended content #1
+ Open
+Marcellia wants to merge 6 commits into miparnisari:master from Marcellia:update-extended-content  
++54 −1 
+ Conversation 0
+ Commits 6
+ Checks 0
+ Files changed 1
+ Open
+Update extended content
+#1
+File filter 
+ 
+0 / 1 files viewed
+  55 changes: 54 additions & 1 deletion55  
+README.md
+Viewed
+Original file line number	Diff line number	Diff line change
+@@ -427,4 +427,57 @@ The party that wins the most seats, wins. The leader of that party becomes the P
+
+The party that wins becomes a majority government if they have more than half the seats. If they don't, they become a minority government. They keep running until they lose the confidence of the majority of the MPs. If a majority of the MPs vote against a major government decision, the party in power is defeated and the PM asks the Governor General to call for an election.
+
+Elections happen every 4 years. Vote is secret.
+Elections happen every 4 years. Vote is secret.
+
+
+# List of Important People 
+
+List of important people categorized based on their roles and significance
+
+| **Name**                | **Category**                      | **Years**          | **Contribution/Significance**                                                                                                       |
+|-------------------------|-----------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Agnes Macphail**       | Politics & Governance             | 1921              | First woman elected to the House of Commons.                                                                                      |
+| **Étienne-Paschal Taché**| Politics & Governance             | 1860s             | Father of Confederation, key in uniting provinces into the Dominion of Canada.                                                    |
+| **George-Étienne Cartier**| Politics & Governance            | 1860s             | Co-leader of the Confederation movement, Father of Confederation.                                                                 |
+| **Guy Carleton (Lord Dorchester)** | Politics & Governance  | 1775              | Governor of Quebec, defended Quebec from American invasion.                                                                       |
+| **John A. Macdonald**    | Politics & Governance             | 1867              | First Prime Minister of Canada, Father of Confederation.                                                                          |
+| **John Simcoe**          | Politics & Governance             | 1793              | First Lieutenant-Governor of Upper Canada, abolished slavery.                                                                     |
+| **Lord Durham**          | Politics & Governance             | 1839              | Recommended responsible government and the unification of Upper and Lower Canada.                                                 |
+| **Louis Riel**           | Politics & Governance             | 1870, 1885        |  Métis' greatest military leader, led uprisings in Manitoba (seized Fort Garry - 1869 -1870) and Saskatchewan (1885) , considered the "father of Manitoba.|
+| **Leonard Tilley**       | Politics & Governance             | 1864              | Father of Confederation, suggested the term "Dominion of Canada."                                                                 |
+| **Robert Borden**        | Politics & Governance             | 1911-1920         | Prime Minister during World War I, gave women the right to vote in federal elections — first to nurses at the battle front, then to women who were related to men in active wartime service                                                          |
+| **William Lyon Mackenzie King** | Politics & Governance      | 1921-1948         | Longest-serving Prime Minister, led Canada through World War II.                                                                  |
+| **Alexander Graham Bell**| Science, Technology & Innovation  | 1876              | Inventor of the telephone.                                                                                                        |
+| **Frederick Banting & Charles Best** | Science, Technology   | 1921              | Co-discovered insulin, leading to treatments for diabetes.                                                                        |
+| **Mike Lazaridis & Jim Balsillie** | Science, Technology     | 1984              | Founders of Research In Motion (RIM), creators of the Blackberry.                                                                 |
+| **Reginald Fessenden**   | Science, Technology & Innovation  | 1900s             | Contributed to the invention of radio, sent the first wireless voice message.                                                     |
+| **Sir Sandford Fleming** | Science, Technology & Innovation  | 1870s-1880s       | Introduced time zones worldwide, Canadian railway pioneer.                                                                        |
+| **Bishop Laval**         | Exploration                      | 1658-1674         | First Bishop of New France (Bishop of Quebec), played a key role in building a French Empire in North America that reached from Hudson Bay to the Gulf of Mexico                                                                            |
+| **Jacques Cartier**      | Exploration                      | 1534-1542         | French explorer, first European to map Gulf and River of St. Lawrence, claiming the land for King Francis I of France.                                                                        |
+| **John Cabot**           | Exploration                      | 1497              | Italian immigrant in England, first European to map East Coast of Canada. , setting foot on Newfoundland or Cape Breton Island in 1497 and claiming the New Founde Land for England.                                                                        |
+| **Samuel de Champlain**  | Exploration                      | 1604, 1608        | French explorer, founded Quebec and established Acadia.                                                                           |
+| **Charles de Salaberry** | Military & War                   | 1812              | Defended Montreal during the War of 1812.                                                                                         |
+| **Isaac Brock**          | Military & War                   | 1812              | Canadian military leader, War of 1812 hero.                                                                                       |
+| **James Wolfe**          | Military & War                   | 1759              | Brigadier was killed leading their troops in battle ( In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City — marking the end of France’s empire in America )                                       |
+| **Marquis de Montcalm**  | Military & War                   | 1759              | French Commander, defeated and killed in the Battle of the Plains of Abraham.                                                     |
+| **Robert Ross**          | Military & War                   | 1814              | British general, burned the White House during the War of 1812.                                                                   |
+| **Sir Arthur Currie**    | Military & War                   | 1917              | Led Canadian troops in World War I, especially at Vimy Ridge.                                                                     |
+| **Donovan Bailey**       | Sports                           | 1996              | Olympic sprinter, world record sprinter, double Olympic gold medallist.                                                           |
+| **Marjorie Turner-Bailey** | Sports                         | 1980s             | Olympian sprinter from Nova Scotia, descendant of Black Loyalists.                                                                |
+| **Phil Edwards**         | Sports                           | 1920s-1930s       | Olympian runner, physician, and Canadian Army captain, expert in tropical diseases. He won bronze medals for Canada in the 1928, 1932 and 1936 Olympics                                                    |
+| **Rick Hansen**          | Sports                           | 1985-1987         | Wheelchair athlete, completed the "Man in Motion World Tour."                                                                     |
+| **Terry Fox**            | Sports                           | 1980              | Ran the "Marathon of Hope" to raise money for cancer research.                                                                   |
+| **Wayne Gretzky**        | Sports                           | 1980s-1990s       | Considered the greatest ice hockey player of all time, multiple Stanley Cup winner.                                               |
+| **Emily Carr**           | Arts & Culture                   | 1920s-1940s       | Renowned Canadian painter, painted landscapes of British Columbia.                                                               |
+| **John McCrae**          | Arts & Culture                   | 1915              | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                    |
+| **Therese Casgrain**     | Women's Rights & Advocacy        | 1940              | Quebec women's rights advocate, helped secure the right for women to vote in Quebec.                                              |
+| **Emily Stowe**          | Women's Rights & Advocacy        | 1867-1903         | First female physician to practise in Canada, founded the Canadian Women's Suffrage Association.                                  |
+| **Alice Munro**          | Nobel Prize Laureates            | 2013              | Nobel Prize in Literature, recognized for exceptional short stories depicting the Canadian experience.                            |
+| **Arthur B. McDonald**   | Nobel Prize Laureates            | 2015              | Nobel Prize in Physics, for the discovery of neutrino oscillations.                                                              |
+| **James Peebles**        | Nobel Prize Laureates            | 2019              | Nobel Prize in Physics, for theoretical discoveries in physical cosmology.                                                       |
+| **Gerhard Herzberg**     | Nobel Prize Laureates            | 1971              | Nobel Prize in Chemistry, for contributions to molecular structure research.                                                     |
+| **John Polanyi**         | Nobel Prize Laureates            | 1986              | Nobel Prize in Chemistry, for developing techniques to observe chemical reactions.                                                |
+| **Sidney Altman**        | Nobel Prize Laureates            | 1989              | Nobel Prize in Chemistry, for discovering the catalytic properties of RNA.                                                       |
+| **Michael Smith**        | Nobel Prize Laureates            | 1993              | Nobel Prize in Chemistry, for work on site-directed mutagenesis.                                                                 |
+| **Bertram Brockhouse**   | Nobel Prize Laureates            | 1994              | Nobel Prize in Physics, for work in neutron spectroscopy.                                                                        |
+| **Richard E. Taylor**    | Nobel Prize Laureates            | 1990              | Nobel Prize in Physics, for work on quark structure through deep inelastic scattering.      
