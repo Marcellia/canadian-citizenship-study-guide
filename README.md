@@ -434,7 +434,6 @@ Elections happen every 4 years. Vote is secret.
 
 List of important people categorized based on their roles and significance
 
-
 | **Name**                | **Category**                      | **Years**          | **Contribution/Significance**                                                                                                       |
 |-------------------------|-----------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | **Agnes Macphail**       | Politics & Governance             | 1921              | First woman elected to the House of Commons.                                                                                      |
@@ -448,38 +447,31 @@ List of important people categorized based on their roles and significance
 | **Leonard Tilley**       | Politics & Governance             | 1864              | Father of Confederation, suggested the term "Dominion of Canada."                                                                 |
 | **Robert Borden**        | Politics & Governance             | 1911-1920         | Prime Minister during World War I, gave women the right to vote in federal elections.                                              |
 | **William Lyon Mackenzie King** | Politics & Governance      | 1921-1948         | Longest-serving Prime Minister, led Canada through World War II.                                                                  |
-|
 | **Alexander Graham Bell**| Science, Technology & Innovation  | 1876              | Inventor of the telephone.                                                                                                        |
 | **Frederick Banting & Charles Best** | Science, Technology   | 1921              | Co-discovered insulin, leading to treatments for diabetes.                                                                        |
 | **Mike Lazaridis & Jim Balsillie** | Science, Technology     | 1984              | Founders of Research In Motion (RIM), creators of the Blackberry.                                                                 |
 | **Reginald Fessenden**   | Science, Technology & Innovation  | 1900s             | Contributed to the invention of radio, sent the first wireless voice message.                                                     |
 | **Sir Sandford Fleming** | Science, Technology & Innovation  | 1870s-1880s       | Introduced time zones worldwide, Canadian railway pioneer.                                                                        |
-|
 | **Bishop Laval**         | Exploration                      | 1658-1674         | First Bishop of New France, built a French Empire in North America.                                                               |
 | **Jacques Cartier**      | Exploration                      | 1534-1542         | French explorer, mapped the Gulf and River of St. Lawrence.                                                                       |
 | **John Cabot**           | Exploration                      | 1497              | Italian explorer in England, mapped East Coast of Canada.                                                                         |
 | **Samuel de Champlain**  | Exploration                      | 1604, 1608        | French explorer, founded Quebec and established Acadia.                                                                           |
-|
 | **Charles de Salaberry** | Military & War                   | 1812              | Defended Montreal during the War of 1812.                                                                                         |
 | **Isaac Brock**          | Military & War                   | 1812              | Canadian military leader, War of 1812 hero.                                                                                       |
 | **James Wolfe**          | Military & War                   | 1759              | Led British troops in the Battle of the Plains of Abraham, ending France’s empire in America.                                      |
 | **Marquis de Montcalm**  | Military & War                   | 1759              | French Commander, defeated and killed in the Battle of the Plains of Abraham.                                                     |
 | **Robert Ross**          | Military & War                   | 1814              | British general, burned the White House during the War of 1812.                                                                   |
 | **Sir Arthur Currie**    | Military & War                   | 1917              | Led Canadian troops in World War I, especially at Vimy Ridge.                                                                     |
-|
 | **Donovan Bailey**       | Sports                           | 1996              | Olympic sprinter, world record sprinter, double Olympic gold medallist.                                                           |
 | **Marjorie Turner-Bailey** | Sports                         | 1980s             | Olympian sprinter from Nova Scotia, descendant of Black Loyalists.                                                                |
 | **Phil Edwards**         | Sports                           | 1920s-1930s       | Olympic runner, physician, Army captain, bronze medalist in multiple Olympics.                                                    |
 | **Rick Hansen**          | Sports                           | 1985-1987         | Wheelchair athlete, completed the "Man in Motion World Tour."                                                                     |
 | **Terry Fox**            | Sports                           | 1980              | Ran the "Marathon of Hope" to raise money for cancer research.                                                                   |
 | **Wayne Gretzky**        | Sports                           | 1980s-1990s       | Considered the greatest ice hockey player of all time, multiple Stanley Cup winner.                                               |
-|
 | **Emily Carr**           | Arts & Culture                   | 1920s-1940s       | Renowned Canadian painter, painted landscapes of British Columbia.                                                               |
 | **John McCrae**          | Arts & Culture                   | 1915              | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                    |
-|
 | **Therese Casgrain**     | Women's Rights & Advocacy        | 1940              | Quebec women's rights advocate, helped secure the right for women to vote in Quebec.                                              |
 | **Emily Stowe**          | Women's Rights & Advocacy        | 1867-1903         | First female physician to practise in Canada, founded the Canadian Women's Suffrage Association.                                  |
-|
 | **Alice Munro**          | Nobel Prize Laureates            | 2013              | Nobel Prize in Literature, recognized for exceptional short stories depicting the Canadian experience.                            |
 | **Arthur B. McDonald**   | Nobel Prize Laureates            | 2015              | Nobel Prize in Physics, for the discovery of neutrino oscillations.                                                              |
 | **James Peebles**        | Nobel Prize Laureates            | 2019              | Nobel Prize in Physics, for theoretical discoveries in physical cosmology.                                                       |
