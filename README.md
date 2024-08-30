@@ -430,45 +430,57 @@ The party that wins becomes a majority government if they have more than half th
 Elections happen every 4 years. Vote is secret.
 
 
-# List of Important People 
+# List of Important People
+List of important people categorized based on their roles and significance
 
-| **Name**                         | **Role/Significance**                                                                                                           | **Year(s)**         |
-|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| **Agnes Macphail**                | First woman elected to the House of Commons.                                                                                   | 1921                |
-| **Alexander Graham Bell**         | Inventor of the telephone.                                                                                                     | 1876                |
-| **Bishop Laval**                  | First Bishop of New France (Bishop of Quebec), played a key role in building a French Empire in North America that reached from Hudson Bay to the Gulf of Mexico                                              | 1658 to 1674                |
-| **Charles de Salaberry**          | French Canadian soldier, notable in defending Montreal during the War of 1812.                                                  | 1812                |
-| **Count Frontenac**               | Governor of New France, refused to surrender Quebec to the English in 1690.                                                            | 1672-1698           |
-| **Donovan Bailey**                | Olympic sprinter, first Canadian to legally break the 10-second barrier in the 100 meters - became a world record sprinter and double Olympic gold medallist.                                   | 1996                |
-| **Emily Carr**                    | Group of Seven(1920) - Renowned Canadian painter, painted the landscapes of British Columbia.                                                         | 1920s-1940s         |
-| **Emily Stowe**                   | First female physician to practise in Canada, founded the Canadian Women's Suffrage Association.                                | 1867-1903           |
-| **Étienne-Paschal Taché**         | Father of Confederation, key in uniting provinces into the Dominion of Canada.                                                  | 1860s               |
-| **Frederick Banting & Charles Best** | Co-discovered insulin, leading to treatments for diabetes.                                                                   | 1921                |
-| **George-Étienne Cartier**        | Co-leader of the Confederation movement, one of the Fathers of Confederation.                                                   | 1860s               |
-| **Guy Carleton (Lord Dorchester)** | Governor of Quebec, Defended Quebec from American invasion.                                                                                        | 1775               |
-| **Isaac Brock**                   | Canadian military leader, hero in the War of 1812.                                                                             | 1812                |
-| **Jacques Cartier**               | French explorer, first European to map Gulf and River of St. Lawrence, claiming the land for King Francis I of France.                                                         | 1534-1542           |
-| **James Wolfe**                   | Brigadier was killed leading their troops in battle ( In 1759, the British defeated the French in the Battle of the Plains of Abraham at Québec City — marking the end of France’s empire in America )                                                   | 1759                |
-| **Jean Talon**                    | Intendant of New France, governed the colony.                                                                                  | 1665-1682           |
-| **John A. Macdonald**             | First Prime Minister of Canada, one of the Fathers of Confederation.                                                           | 1867                |
-| **John Cabot**                    | Italian immigrant in England, first European to map East Coast of Canada. , setting foot on Newfoundland or Cape Breton Island in 1497 and claiming the New Founde Land for England.                                                      | 1497           |
-| **John McCrae**                   | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                  | 1915                |
-| **John Simcoe**                   | First Lieutenant-Governor of Upper Canada, abolished slavery in 1793.                                                                | 1793                |
-| **Laura Secord**                  | Canadian heroine of the War of 1812, warned British forces of an American attack.                                               | 1813                |
-| **Lord Durham**                   | Sent from Britain to recommend responsible government and unify Upper and Lower Canada.                                         | 1839                |
-| **Louis Riel**                    | Métis' greatest military leader, led uprisings in Manitoba (seized Fort Garry - 1869 -1870) and Saskatchewan (1885) , considered the "father of Manitoba."                                  | 1870, 1885          |
-| **Marjorie Turner-Bailey**        | Olympian sprinter from Nova Scotia, and a descended from Black Loyalists.                                                                              | 1980s               |
-| **Marquis de Montcalm**           | French Commander, defeated & killed in the Battle of the Plains of Abraham.                                                             | 1759                |
-| **Mike Lazaridis & Jim Balsillie**| Founders of Research In Motion (RIM), creators of the Blackberry.                                                              | 1984                |
-| **Phil Edwards**                  | Olympian runner, physician, and Canadian Army captain, expert in tropical diseases. He won bronze medals for Canada in the 1928, 1932 and 1936 Olympics                                             | 1920s-1930s         |
-| **Reginald Fessenden**            | contributed to the invention of radio,known for sending the first wireless voice message in the world.                                               | 1900s               |
-| **Rick Hansen**                   | Wheelchair athlete, completed the "Man in Motion World Tour" to raise awareness for spinal cord injuries.                       | 1985-1987           |
-| **Robert Borden**                 | Prime Minister during World War I, gave women the right to vote in federal elections — first to nurses at the battle front, then to women who were related to men in active wartime service                                                        | 1911-1920           |
-| **Robert Ross**                   | British general, burned the White House during the War of 1812.                                                                | 1814                |
-| **Samuel de Champlain**           | French explorer, founded Quebec and established settlements in Acadia.                                                         | 1604, 1608          |
-| **Sir Arthur Currie**             | Canada's greatest soldier, led Canadian troops during World War I, especially at Vimy Ridge.                                    | 1917                |
-| **Sir Sandford Fleming**          | Engineer, introduced time zones worldwide, Canadian railway pioneer.                                                           | 1870s-1880s         |
-| **Terry Fox**                     | Ran the "Marathon of Hope" to raise money for cancer research, becoming a national hero.                                        | 1980                |
-| **Therese Casgrain**              | Quebec women's rights advocate, helped secure the right for women to vote in Quebec.                                            | 1940                |
-| **Wayne Gretzky**                 | Considered the greatest ice hockey player of all time, multiple Stanley Cup winner.                                             | 1980s-1990s         |
-| **William Lyon Mackenzie King**   | Longest-serving Canadian Prime Minister, led Canada through World War II.                                                      | 1921-1948           |
+| **Name**                | **Category**                      | **Years**          | **Contribution/Significance**                                                                                                       |
+|-------------------------|-----------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Agnes Macphail**       | Politics & Governance             | 1921              | First woman elected to the House of Commons.                                                                                      |
+| **Étienne-Paschal Taché**| Politics & Governance             | 1860s             | Father of Confederation, key in uniting provinces into the Dominion of Canada.                                                    |
+| **George-Étienne Cartier**| Politics & Governance            | 1860s             | Co-leader of the Confederation movement, Father of Confederation.                                                                 |
+| **Guy Carleton (Lord Dorchester)** | Politics & Governance  | 1775              | Governor of Quebec, defended Quebec from American invasion.                                                                       |
+| **John A. Macdonald**    | Politics & Governance             | 1867              | First Prime Minister of Canada, Father of Confederation.                                                                          |
+| **John Simcoe**          | Politics & Governance             | 1793              | First Lieutenant-Governor of Upper Canada, abolished slavery.                                                                     |
+| **Lord Durham**          | Politics & Governance             | 1839              | Recommended responsible government and the unification of Upper and Lower Canada.                                                 |
+| **Louis Riel**           | Politics & Governance             | 1870, 1885        | Métis leader, led uprisings in Manitoba and Saskatchewan.                                                                         |
+| **Leonard Tilley**       | Politics & Governance             | 1864              | Father of Confederation, suggested the term "Dominion of Canada."                                                                 |
+| **Robert Borden**        | Politics & Governance             | 1911-1920         | Prime Minister during World War I, gave women the right to vote in federal elections.                                              |
+| **William Lyon Mackenzie King** | Politics & Governance      | 1921-1948         | Longest-serving Prime Minister, led Canada through World War II.                                                                  |
+|
+| **Alexander Graham Bell**| Science, Technology & Innovation  | 1876              | Inventor of the telephone.                                                                                                        |
+| **Frederick Banting & Charles Best** | Science, Technology   | 1921              | Co-discovered insulin, leading to treatments for diabetes.                                                                        |
+| **Mike Lazaridis & Jim Balsillie** | Science, Technology     | 1984              | Founders of Research In Motion (RIM), creators of the Blackberry.                                                                 |
+| **Reginald Fessenden**   | Science, Technology & Innovation  | 1900s             | Contributed to the invention of radio, sent the first wireless voice message.                                                     |
+| **Sir Sandford Fleming** | Science, Technology & Innovation  | 1870s-1880s       | Introduced time zones worldwide, Canadian railway pioneer.                                                                        |
+|
+| **Bishop Laval**         | Exploration                      | 1658-1674         | First Bishop of New France, built a French Empire in North America.                                                               |
+| **Jacques Cartier**      | Exploration                      | 1534-1542         | French explorer, mapped the Gulf and River of St. Lawrence.                                                                       |
+| **John Cabot**           | Exploration                      | 1497              | Italian explorer in England, mapped East Coast of Canada.                                                                         |
+| **Samuel de Champlain**  | Exploration                      | 1604, 1608        | French explorer, founded Quebec and established Acadia.                                                                           |
+|
+| **Charles de Salaberry** | Military & War                   | 1812              | Defended Montreal during the War of 1812.                                                                                         |
+| **Isaac Brock**          | Military & War                   | 1812              | Canadian military leader, War of 1812 hero.                                                                                       |
+| **James Wolfe**          | Military & War                   | 1759              | Led British troops in the Battle of the Plains of Abraham, ending France’s empire in America.                                      |
+| **Marquis de Montcalm**  | Military & War                   | 1759              | French Commander, defeated and killed in the Battle of the Plains of Abraham.                                                     |
+| **Robert Ross**          | Military & War                   | 1814              | British general, burned the White House during the War of 1812.                                                                   |
+| **Sir Arthur Currie**    | Military & War                   | 1917              | Led Canadian troops in World War I, especially at Vimy Ridge.                                                                     |
+|
+| **Donovan Bailey**       | Sports                           | 1996              | Olympic sprinter, world record sprinter, double Olympic gold medallist.                                                           |
+| **Marjorie Turner-Bailey** | Sports                         | 1980s             | Olympian sprinter from Nova Scotia, descendant of Black Loyalists.                                                                |
+| **Phil Edwards**         | Sports                           | 1920s-1930s       | Olympic runner, physician, Army captain, bronze medalist in multiple Olympics.                                                    |
+| **Rick Hansen**          | Sports                           | 1985-1987         | Wheelchair athlete, completed the "Man in Motion World Tour."                                                                     |
+| **Terry Fox**            | Sports                           | 1980              | Ran the "Marathon of Hope" to raise money for cancer research.                                                                   |
+| **Wayne Gretzky**        | Sports                           | 1980s-1990s       | Considered the greatest ice hockey player of all time, multiple Stanley Cup winner.                                               |
+|
+| **Emily Carr**           | Arts & Culture                   | 1920s-1940s       | Renowned Canadian painter, painted landscapes of British Columbia.                                                               |
+| **John McCrae**          | Arts & Culture                   | 1915              | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                    |
+|
+| **Alice Munro**          | Nobel Prize Laureates            | 2013              | Nobel Prize in Literature, recognized for exceptional short stories depicting the Canadian experience.                            |
+| **Arthur B. McDonald**   | Nobel Prize Laureates            | 2015              | Nobel Prize in Physics, for the discovery of neutrino oscillations.                                                              |
+| **James Peebles**        | Nobel Prize Laureates            | 2019              | Nobel Prize in Physics, for theoretical discoveries in physical cosmology.                                                       |
+| **Gerhard Herzberg**     | Nobel Prize Laureates            | 1971              | Nobel Prize in Chemistry, for contributions to molecular structure research.                                                     |
+| **John Polanyi**         | Nobel Prize Laureates            | 1986              | Nobel Prize in Chemistry, for developing techniques to observe chemical reactions.                                                |
+| **Sidney Altman**        | Nobel Prize Laureates            | 1989              | Nobel Prize in Chemistry, for discovering the catalytic properties of RNA.                                                       |
+| **Michael Smith**        | Nobel Prize Laureates            | 1993              | Nobel Prize in Chemistry, for work on site-directed mutagenesis.                                                                 |
+| **Bertram Brockhouse**   | Nobel Prize Laureates            | 1994              | Nobel Prize in Physics, for work in neutron spectroscopy.                                                                        |
+| **Richard E. Taylor**    | Nobel Prize Laureates            | 1990              | Nobel Prize in Physics, for work on quark structure through deep inelastic scattering.                                            |
