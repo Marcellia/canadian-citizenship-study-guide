@@ -430,8 +430,10 @@ The party that wins becomes a majority government if they have more than half th
 Elections happen every 4 years. Vote is secret.
 
 
-# List of Important People
+# List of Important People 
+
 List of important people categorized based on their roles and significance
+
 
 | **Name**                | **Category**                      | **Years**          | **Contribution/Significance**                                                                                                       |
 |-------------------------|-----------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -474,6 +476,9 @@ List of important people categorized based on their roles and significance
 |
 | **Emily Carr**           | Arts & Culture                   | 1920s-1940s       | Renowned Canadian painter, painted landscapes of British Columbia.                                                               |
 | **John McCrae**          | Arts & Culture                   | 1915              | Canadian poet, wrote "In Flanders Fields" during World War I.                                                                    |
+|
+| **Therese Casgrain**     | Women's Rights & Advocacy        | 1940              | Quebec women's rights advocate, helped secure the right for women to vote in Quebec.                                              |
+| **Emily Stowe**          | Women's Rights & Advocacy        | 1867-1903         | First female physician to practise in Canada, founded the Canadian Women's Suffrage Association.                                  |
 |
 | **Alice Munro**          | Nobel Prize Laureates            | 2013              | Nobel Prize in Literature, recognized for exceptional short stories depicting the Canadian experience.                            |
 | **Arthur B. McDonald**   | Nobel Prize Laureates            | 2015              | Nobel Prize in Physics, for the discovery of neutrino oscillations.                                                              |
